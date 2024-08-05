@@ -1,0 +1,27 @@
+/* Imp part describing color of web page link color font description*/
+body{
+    background-color:#f5f5f5(255, 200, 0); /* Light Gray */
+    color:#333333; /* Dark Gray */
+}
+
+a {
+    color: #2196f3; /* Soft Blu */
+}
+a:hover {
+    color: #d0f0c0; /* Pale Green */
+}
+
+.form-input {
+    background-color: #ffffff; /* White for input fields */
+    border: 1px solid #cccccc; /* Light Gray border */
+    color: #333333; /* Dark Gray text */
+}
+
+
+#name_of_game{
+    text-align: center;
+}
+/*hr{
+  size: 300px;
+  align-content: center;
+}*/
