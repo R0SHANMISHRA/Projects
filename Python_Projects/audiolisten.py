@@ -56,5 +56,4 @@ while True:
         output_text(text)
         print("Wrote text")
         
-        
- print("Hello world")
+      
