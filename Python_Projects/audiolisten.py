@@ -55,3 +55,6 @@ while True:
             break
         output_text(text)
         print("Wrote text")
+        
+        
+ print("Hello world")
