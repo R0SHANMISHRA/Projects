@@ -46,25 +46,7 @@
     opacity: 1; 
 }
 
-nav-a a[href="index.html"]{
-    text-decoration: underline;
-    opacity: 1; 
-}
 
-nav-a a[href="about.html"]{
-    text-decoration: underline;
-    opacity: 1; 
-}
-
-nav-a a[href="contact.html"]{
-    text-decoration: underline;
-    opacity: 1; 
-}
-
-nav-a a[href="projects.html"]{
-    text-decoration: underline;
-    opacity: 1; 
-}
 
 
 .Mode{
