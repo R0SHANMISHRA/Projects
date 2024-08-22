@@ -34,11 +34,12 @@
     font-size: 1rem;
     margin-left: auto; 
     opacity: 0.9;
+    transition: all 1s linear;
 }
 
 .nav-a a:hover{
     text-decoration: underline;
-    opacity: 1;   
+    opacity: 1;  
 }
 
 
@@ -46,6 +47,7 @@
 .nav-a a[href="projects.html"]{
     text-decoration: underline;
     opacity: 1; 
+    
 }
 
 

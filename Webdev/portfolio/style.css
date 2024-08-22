@@ -33,7 +33,7 @@
     color: #FFFFFF;
     font-size: 1rem;
     margin-left: auto; 
-    opacity: 0.9;
+    opacity: 0.8;
 }
 
 .nav-a a:hover{
@@ -76,9 +76,15 @@ section{
     border-radius: 50%;
 }
 
-.writtencontent{
-    font-size: 1.5rem;
+.writtencontent h2{
+    font-size: 1.25rem;
 }
+
+#full{
+    font-size: 1rem;
+}
+
+
 
 
 
@@ -104,5 +110,4 @@ section{
         gap:0.5em;
     } 
 }
-
 
