@@ -3,14 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <title>To-Do web</title>
 </head>
 <body>
-    <h1>To-Do list</h1>
-    <h3>Enter "list" to show all task</h3>
-    <h3>Enter "add" to add a task</h3>
-    <h3>Enter "delete" to delete a task</h3>
-    <h3>Enter "quite" to quite a todo</h3>
+    <div class="container">
+        <div class="tod-app">
+            <h2>To-Do web</h2>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add your task">
+                <button>Add</button>
+            </div>
+            <ul id="list-container">
+                <li></li>
+            </ul>
+        </div>
+    </div>
     <script src="app.js"></script>
 </body>
 </html>

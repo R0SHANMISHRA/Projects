@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'popins', 'sans-serif';
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg,#153677,#4e085f);
+    padding: 10px;
+}
+
+.tod-app{
+    width:100%;
+    max-width: 33.75rem;
+    background: #fff;
+    margin:6.25rem auto 1.25rem;
+    padding: 2.5rem 1.85rem 4.37rem;
+    border-radius: 0.63rem;
+}
+
+.tod-app h2{
+    color:#00267765;
+    display: flex;
+    align-items: center;
+    margin:1.25rem;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #edeef0;
+    border-radius: 30px;
+    padding-left: 1.25rem;
+    margin-bottom: 1.56rem;
+}
+
+.row input{
+    flex:1;
+    border:none;
+    outline:none;
+    background: transparent;
+    padding:0.625rem;
+}
+
+.row button{
+    border:none;
+    outline:none;
+    padding:1rem 3.15rem;
+    background: #ff5945;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 40px;
+}
